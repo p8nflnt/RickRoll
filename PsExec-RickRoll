@@ -9,8 +9,8 @@
     Version: 1.0
     DateCreated: 2023-Aug
 
-.LINK
-    
+.LINKS
+    https://github.com/p8nflnt/RickRoll/blob/main/PsExec-RickRoll
 #>
 
 # Clear variables for repeatability
