@@ -9,7 +9,7 @@
     Version: 1.0
     DateCreated: 2023-Aug
 
-.LINKS
+.LINK
     https://github.com/p8nflnt/RickRoll/blob/main/PsExec-RickRoll
 #>
 
