@@ -10,7 +10,7 @@
     DateCreated: 2023-Aug
 
 .LINK
-    https://github.com/p8nflnt/RickRoll/blob/main/PsExec-RickRoll
+    https://github.com/p8nflnt/RickRoll/blob/main/PsExec-RickRoll.ps1
 #>
 
 # Clear variables for repeatability
