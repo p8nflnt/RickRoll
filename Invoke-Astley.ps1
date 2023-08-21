@@ -16,6 +16,7 @@
 Function Invoke-Astley {
     # Create music scriptblock for invocation as background job
     $MusicScript = {
+        Start-Sleep -Milliseconds 1320
         Function Invoke-Note {
             param (
                 $Note,
